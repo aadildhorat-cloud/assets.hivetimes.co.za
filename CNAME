@@ -1,4 +1,2 @@
 cdn.hivetimes.co.za
-git add CNAME
-git commit -m "chore: add custom domain for CDN"
-git push
+
